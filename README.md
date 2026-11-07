@@ -45,13 +45,6 @@ Run this from your project's root to keep the skill within that project:
 git clone https://github.com/shirshag/x-writing-skill.git .agents/skills/write-x-posts
 ```
 
-Keep the entire skill directory, including `references/`, `agents/`, and `assets/`. The repository name is `x-writing-skill`; the skill's invocation name is **`write-x-posts`**.
-
-Codex detects newly installed skills automatically. If it does not appear, restart Codex. See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills) for discovery locations and invocation details.
-
-## Use it
-
-In Codex CLI or the IDE extension, mention `$write-x-posts` in your prompt. You can also select it from `/skills`. In the ChatGPT desktop app, use `@` to select the installed skill.
 
 ### Draft a batch
 
