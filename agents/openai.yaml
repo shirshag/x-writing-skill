@@ -1,0 +1,13 @@
+interface:
+  display_name: X Posts That Get Read
+  short_description: Write original X posts people want to finish
+  default_prompt: Use $write-x-posts to draft five useful, witty X posts for my audience.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
